@@ -1,2 +1,8 @@
-# cssd1161-w4-ex1-ayaan
-# My name is Ayaan Ahmed I have previously worked with JS, Java, Python etc. and my goals for this semester is to master python while integrating biology effectively.
+# About me
+    - My name is Ayaan, I am an undergraduate student in CSSD, and my favorite subject is computer science.
+# Goals
+    - Get totally comfortable writing Python scripts that actually make sense of biological data.
+
+    - Figure out how to smoothly combine what I learn in biology with my coding projects without overthinking it.
+
+    - Knock out all the intro assignments smoothly and build a solid foundation for future coding classes.
